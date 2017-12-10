@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>Version</key>
-  <integer>1</integer>
+  <integer>2</integer>
   <key>Extension Name</key>
   <string>Date From Timestamp</string>
   <key>Extension Identifier</key>
@@ -18,7 +18,7 @@
       <key>Image File</key>
       <string>calendar-icon.png</string>
       <key>Regular Expression</key>
-      <string>^[\-\+]?\d+$</string>
+      <string>^[\-\+]?[1-9]\d*$</string>
       <key>Script Interpreter</key>
       <string>/usr/local/bin/node</string>
       <key>Shell Script File</key>

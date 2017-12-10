@@ -1,3 +1,19 @@
-# Date From Epoch Popclip Extension
+# 'Date From Timestamp' PopClip Extension
 
-This simple extension will let you quickly convert a JavaScript timestamp (milliseconds since Jan 1 1970) into a human-readable date.
+![](docs/popclip.gif)
+
+This simple [PopClip](http://pilotmoon.com/popclip/) extension quickly converts a JavaScript timestamp (milliseconds since Jan 1 1970) into a human-readable date.
+
+## Installation
+
+1. Download or clone this repo to your computer
+2. Double-click the `Date From Timestamp.popclipext` extension to install it in PopClip
+3. Confirm that that the Date From Timestamp extension is activated:
+
+![](docs/checked.png)
+
+## Usage
+
+1. Select a JavaScript timestamp (or any integer)
+2. Click the calendar icon
+3. ***Optional:*** Click on the human-readable date to copy it to your clipboard
